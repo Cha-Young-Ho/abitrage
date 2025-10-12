@@ -1,0 +1,2 @@
+# yh-auth 라이브러리 (개발 모드 - 실시간 반영)
+-e /Users/youngho/lts-project/base/yh-auth
