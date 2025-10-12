@@ -1,2 +1,11 @@
-# yh-auth 라이브러리 (개발 모드 - 실시간 반영)
--e /Users/youngho/lts-project/base/yh-auth
+# yh-auth 라이브러리 (GitHub에서 설치)
+yh-auth @ git+https://github.com/Cha-Young-Ho/yh-auth.git
+
+# yh-db 라이브러리 (GitHub에서 설치)
+yh-db @ git+https://github.com/Cha-Young-Ho/yh-db.git
+
+# Binance API
+python-binance==1.0.19
+
+# WebSocket support
+websockets==12.0
