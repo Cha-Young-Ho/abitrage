@@ -1,11 +1,4 @@
-# yh-auth 라이브러리 (GitHub에서 설치)
-yh-auth @ git+https://github.com/Cha-Young-Ho/yh-auth.git
+# requirements.txt
+yh-base @ git+https://github.com/Cha-Young-Ho/base.git@v1.2.0#egg=yh-base[mysql,redis,auth,config]
 
-# yh-db 라이브러리 (GitHub에서 설치)
-yh-db @ git+https://github.com/Cha-Young-Ho/yh-db.git
-
-# Binance API
-python-binance==1.0.19
-
-# WebSocket support
-websockets==12.0
+fastapi>=0.119.0
