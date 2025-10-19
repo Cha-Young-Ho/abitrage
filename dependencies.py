@@ -2,7 +2,7 @@ from fastapi import Depends
 from yh_config import ConfigManager
 from yh_auth import AuthManager, AuthConfig
 from yh_redis import RedisManager, RedisConfig
-from yh_db import MySQLManager, MySQLConfig
+from yh_mysql import MySQLManager, MySQLConfig
 from src.auth.auth_service import AuthService
 from functools import lru_cache
 

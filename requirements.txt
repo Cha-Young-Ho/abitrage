@@ -1,4 +1,4 @@
 # requirements.txt
-yh-base @ git+https://github.com/Cha-Young-Ho/base.git@v1.2.0#egg=yh-base[mysql,redis,auth,config]
+yh-base @ git+https://github.com/Cha-Young-Ho/base.git@v1.0.0#egg=yh-base[mysql,redis,auth,config]
 
 fastapi>=0.119.0
